@@ -1,4 +1,4 @@
 idurkan.github.io
 =================
 
-My Github site
+First stab at a Github site.
