@@ -1,0 +1,765 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"json",
+				"json_obj"
+			],
+			[
+				"out",
+				"output_dir"
+			],
+			[
+				"ou",
+				"output_dir"
+			],
+			[
+				"down",
+				"download_expansion"
+			],
+			[
+				"start",
+				"start_code"
+			],
+			[
+				"exp",
+				"expansions"
+			],
+			[
+				"mu",
+				"multiverseid"
+			],
+			[
+				"image",
+				"image_url"
+			],
+			[
+				"expa",
+				"expansions"
+			],
+			[
+				"mul",
+				"multiverse_url"
+			],
+			[
+				"fil",
+				"files_list"
+			],
+			[
+				"url",
+				"url_breaker"
+			],
+			[
+				"set_card",
+				"set_card_list"
+			],
+			[
+				"card",
+				"card_ids"
+			],
+			[
+				"get",
+				"get_land_ids"
+			],
+			[
+				"moun",
+				"mountain_ids"
+			],
+			[
+				"fore",
+				"forest_ids"
+			],
+			[
+				"swm",
+				"swamp_ids"
+			],
+			[
+				"isl",
+				"island_ids"
+			],
+			[
+				"plai",
+				"plains_ids"
+			],
+			[
+				"all",
+				"all_errored_cards"
+			],
+			[
+				"special",
+				"special_card_processing"
+			],
+			[
+				"comm",
+				"command"
+			],
+			[
+				"gathe",
+				"gatherer_url"
+			],
+			[
+				"set",
+				"set_land_count"
+			],
+			[
+				"companion",
+				"companion_card"
+			],
+			[
+				"compan",
+				"companion_card"
+			],
+			[
+				"numb",
+				"number_string"
+			],
+			[
+				"set_",
+				"set_cards"
+			],
+			[
+				"form",
+				"format_card_path"
+			],
+			[
+				"output",
+				"output_dir"
+			],
+			[
+				"check",
+				"check_specified_sets_exist"
+			],
+			[
+				"spec",
+				"spec_sets"
+			],
+			[
+				"uniq",
+				"unique_ids_set"
+			],
+			[
+				"get_",
+				"get_time_now"
+			],
+			[
+				"fetch",
+				"fetch_image"
+			],
+			[
+				"imag",
+				"image_url"
+			],
+			[
+				"TUTO",
+				"TUTOR_PATH"
+			],
+			[
+				"ph",
+				"phonecatControllers"
+			],
+			[
+				"targetSv",
+				"targetSvgSel"
+			],
+			[
+				"cont",
+				"containingOffset"
+			],
+			[
+				"clien",
+				"clientY"
+			],
+			[
+				"zoomC",
+				"addZoomChangeListener"
+			],
+			[
+				"list",
+				"listenerList"
+			],
+			[
+				"panStar",
+				"panStartListeners"
+			],
+			[
+				"wheel",
+				"wheelDelta"
+			],
+			[
+				"setTrans",
+				"setTranslation"
+			],
+			[
+				"setTran",
+				"setTransformMatrix"
+			],
+			[
+				"setTr",
+				"setTransformMatrix"
+			],
+			[
+				"scale",
+				"scaleFactor"
+			],
+			[
+				"scal",
+				"scaleFactor"
+			],
+			[
+				"create",
+				"createSVGMatrix"
+			],
+			[
+				"tar",
+				"targetSvgSel"
+			],
+			[
+				"cur",
+				"curClientCoords"
+			],
+			[
+				"curr",
+				"currentTfMatrix"
+			],
+			[
+				"matr",
+				"matrixTransform"
+			],
+			[
+				"matrx",
+				"matrixStr"
+			],
+			[
+				"ini",
+				"initializing"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fl",
+				"flipOut"
+			],
+			[
+				"spl",
+				"splice2at5"
+			],
+			[
+				"wr",
+				"writeln"
+			],
+			[
+				"supe",
+				"super_getName"
+			],
+			[
+				"aut",
+				"automemoFibo"
+			],
+			[
+				"fib",
+				"fibbo"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"pr",
+				"profession"
+			],
+			[
+				"subl",
+				"sublime_text"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 203,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/idurkan/.bashrc",
+		"/home/idurkan/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/idurkan/Downloads/JOU-x.json",
+		"/home/idurkan/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/idurkan/bin/deploy_local_war.sh",
+		"/home/idurkan/projects/dreamdeck/scripts/Un-sets-pretty.json",
+		"/home/idurkan/projects/dreamdeck/scripts/AllSets-x-pretty.json",
+		"/home/idurkan/projects/dreamdeck/scripts/dataAc/download_images.py",
+		"/home/idurkan/test.txt",
+		"/home/idurkan/projects/dreamdeck/scripts/HHO-pretty.json",
+		"/home/idurkan/projects/dreamdeck/scripts/Past-HHO-pretty.json",
+		"/home/idurkan/projects/dreamdeck/scripts/AllSets-pretty.json",
+		"/home/idurkan/.ssh/known_hosts",
+		"/home/idurkan/projects/dreamdeck/scripts/CHK_ISD_DGM-pretty.json",
+		"/home/idurkan/Downloads/assemble/RTR-pretty.json",
+		"/home/idurkan/Downloads/assemble/M14-pretty.json",
+		"/home/idurkan/Downloads/assemble/DGM-pretty.json",
+		"/home/idurkan/Downloads/assemble/2014-standard-pretty.json",
+		"/home/idurkan/Downloads/assemble/GTC-pretty.json",
+		"/home/idurkan/Downloads/assemble/BNG-pretty.json",
+		"/home/idurkan/Downloads/assemble/THS-pretty.json",
+		"/home/idurkan/projects/dreamdeck/scripts/CHK_ISD_DGM_THS-pretty.json",
+		"/home/idurkan/Downloads/THS-pretty.json",
+		"/home/idurkan/Downloads/assemble/THS-x.json",
+		"/home/idurkan/Downloads/assemble/RTR-x.json",
+		"/home/idurkan/Downloads/assemble/M14-x.json",
+		"/home/idurkan/Downloads/assemble/GTC-x.json",
+		"/home/idurkan/Downloads/assemble/DGM-x.json",
+		"/home/idurkan/Downloads/assemble/BNG-x.json",
+		"/home/idurkan/training/angular-phonecat/app/index-async.html",
+		"/home/idurkan/projects/dreamdeck/test.txt",
+		"/home/idurkan/projects/dreamdeck/AllSets-pretty.json",
+		"/etc/apache2/sites-enabled/000-default",
+		"/home/idurkan/projects/dreamdeck/.gitignore",
+		"/home/idurkan/projects/dreamdeck/scripts/all_expansion_codes.txt",
+		"/home/idurkan/.bash_aliases",
+		"/home/idurkan/Downloads/icons-work/simple_seticon_filenames.py",
+		"/home/idurkan/projects/dreamdeck/scripts/ISD-pretty.json",
+		"/home/idurkan/projects/dreamdeck/scripts/dataAc/find_in_list.py",
+		"/home/idurkan/projects/dreamdeck/scripts/CHK_ISD_RTR-pretty.json",
+		"/home/idurkan/projects/dreamdeck/scripts/all-cards.json",
+		"/home/idurkan/projects/mtgjson/build/buildSet.js",
+		"/home/idurkan/projects/mtgjson/build/C.js",
+		"/home/idurkan/projects/mtgjson/build/rip.js",
+		"/home/idurkan/projects/mtgjson/build/test.js",
+		"/home/idurkan/projects/mtgjson/build/tmp.js",
+		"/home/idurkan/projects/mtgjson/package.json",
+		"/home/idurkan/projects/mtgjson/shared/C.js",
+		"/home/idurkan/projects/mtgjson/java/src/com/mtgjson/LoadAllCards.java",
+		"/home/idurkan/projects/mtgjson/java/src/com/mtgjson/MTGCard.java",
+		"/home/idurkan/projects/mtgjson/java/src/com/mtgjson/MTGSet.java",
+		"/home/idurkan/projects/mtgjson/java/AllSets.json",
+		"/home/idurkan/projects/mtgjson/sandbox/todo.txt",
+		"/home/idurkan/projects/dreamdeck/scripts/sample-cards.json",
+		"/home/idurkan/projects/grails-shiro-test/grails-app/conf/BuildConfig.groovy",
+		"/home/idurkan/projects/mtg-piper/all-cards.json",
+		"/home/idurkan/Downloads/DKA-pretty.json",
+		"/home/idurkan/projects/mtg-piper/lands.json",
+		"/var/lib/dreamdeck/config/expansions.json",
+		"/home/idurkan/projects/grails-fixture-issue/README.md",
+		"/home/idurkan/projects/dreamdeck/scripts/bornOfTheGods.json",
+		"/home/idurkan/projects/mtg-piper/extract_nonlands.py",
+		"/home/idurkan/projects/grails-fixture-issue/.gitignore",
+		"/var/lib/dreamdeck/config/all-cards.json",
+		"/home/idurkan/projects/mtg-piper/cards.json",
+		"/home/idurkan/projects/dreamdeck/run-grails-script.sh",
+		"/home/idurkan/projects/mtg-piper/get_land_ids.py",
+		"/home/idurkan/projects/mtg-piper/.gitignore",
+		"/home/idurkan/projects/mtg-piper/extract_lands.py",
+		"/home/idurkan/projects/mtg-piper/README.md",
+		"/home/idurkan/projects/dreamdeck/grails-app/views/index.gsp",
+		"/home/idurkan/projects/mtg-piper/card.json",
+		"/home/idurkan/projects/mtg-piper/swamp-links.html",
+		"/home/idurkan/projects/mtg-piper/mountain-links.html",
+		"/home/idurkan/projects/mtg-piper/forest-links.html",
+		"/home/idurkan/projects/mtg-piper/island-links.html",
+		"/home/idurkan/projects/mtg-piper/download_images.py",
+		"/home/idurkan/projects/mtg-piper/cards-2ndhalf.json",
+		"/home/idurkan/projects/tutor/download_images.py",
+		"/home/idurkan/projects/tutor/extract_all.py",
+		"/home/idurkan/projects/mtg-piper/LICENSE",
+		"/home/idurkan/projects/tutor/cards.json",
+		"/home/idurkan/projects/tutor/innis.json",
+		"/home/idurkan/projects/tutor/all_names_one_line",
+		"/home/idurkan/projects/tutor/2innis.json",
+		"/home/idurkan/projects/tutor/console.out",
+		"/home/idurkan/projects/tutor/src/gatherer/card.coffee",
+		"/home/idurkan/projects/tutor/src/gatherer/languages.coffee",
+		"/home/idurkan/projects/tutor/src/languages.coffee",
+		"/home/idurkan/projects/tutor/src/command.coffee",
+		"/home/idurkan/projects/tutor/src/gatherer/set.coffee",
+		"/home/idurkan/projects/tutor/src/entities.coffee",
+		"/home/idurkan/projects/tutor/src/formatters.coffee",
+		"/home/idurkan/projects/tutor/src/gatherer.coffee",
+		"/home/idurkan/projects/tutor/src/load.coffee",
+		"/home/idurkan/projects/tutor/src/pagination.coffee",
+		"/home/idurkan/projects/tutor/src/supertypes.coffee",
+		"/home/idurkan/projects/tutor/src/symbols.coffee",
+		"/home/idurkan/projects/tutor/src/tutor.coffee",
+		"/home/idurkan/projects/tutor/src/url.coffee",
+		"/home/idurkan/projects/tutor/test/tutor.coffee",
+		"/home/idurkan/projects/tutor/src/gatherer/card.js",
+		"/home/idurkan/projects/tutor/cards_all.json",
+		"/home/idurkan/projects/tutor/lib/gatherer/card.js",
+		"/home/idurkan/projects/tutor/src/gatherer/printings.coffee",
+		"/home/idurkan/projects/tutor/uniqueness_verify.py",
+		"/home/idurkan/projects/tutor/package.json",
+		"/home/idurkan/projects/tutor-c/src/gatherer/set.coffee",
+		"/home/idurkan/projects/tutor/.gitignore",
+		"/home/idurkan/projects/tutor/Makefile",
+		"/home/idurkan/projects/tutor/cards-pretty.json",
+		"/home/idurkan/projects/tutor/lib/command.js",
+		"/home/idurkan/projects/tutor/README.md",
+		"/home/idurkan/training/angular-phonecat/app/partials/phone-list.html",
+		"/home/idurkan/training/angular-phonecat/test/unit/controllersSpec.js",
+		"/home/idurkan/training/angular-phonecat/app/js/controllers.js",
+		"/home/idurkan/training/angular-phonecat/app/partials/phone-detail.html",
+		"/home/idurkan/training/angular-phonecat/app/js/app.js",
+		"/home/idurkan/training/angular-phonecat/app/css/app.css",
+		"/home/idurkan/training/angular-phonecat/app/index.html",
+		"/home/idurkan/training/angular-phonecat/app/js/directives.js",
+		"/home/idurkan/training/angular-phonecat/app/js/filters.js",
+		"/home/idurkan/training/angular-phonecat/app/js/services.js",
+		"/home/idurkan/training/angular-phonecat/test/e2e/scenarios.js",
+		"/home/idurkan/training/angular-phonecat/test/e2e/runner.html",
+		"/home/idurkan/training/angular-phonecat/test/lib/angular/angular-scenario.js",
+		"/home/idurkan/training/angular-phonecat/test/unit/servicesSpec.js",
+		"/home/idurkan/training/angular-phonecat/test/unit/filtersSpec.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/idurkan/training/angular-phonecat",
+			"/home/idurkan/projects/mtgjson",
+			"/home/idurkan/projects/tutor/src",
+			"/home/idurkan/projects/tutor"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getCardJsonObject",
+			"jsonData",
+			"PATH",
+			"\"World\"",
+			"\"Player\"",
+			"\"Summon\"",
+			"emrakul",
+			"Happy Holidays",
+			"\"block\": \"Return to Ravnica\"",
+			"Godsire",
+			"Rafiq of the Many",
+			"Godsire",
+			"Rafiq of the Many",
+			"Rafiq of the Many\nRafiq of the Many\nR",
+			"progenitus",
+			"79068",
+			"\"colors\":",
+			"cloak",
+			"3691",
+			"3690",
+			"multiverseid",
+			"release",
+			"catch",
+			"burn",
+			"Load",
+			"//",
+			"Lock",
+			"loyalty",
+			"Delver of Secrets",
+			"insectile aberration",
+			"insect",
+			"supertypes",
+			"thoughtseize",
+			"Jushi Apprentice",
+			"Return target creature you don't control to its owner's hand.",
+			"turn and burn",
+			"Ravager of the Fells",
+			"Promo set for Gatherer",
+			"fifth dawn",
+			"getURLsForMultiverseid",
+			"processMultiverseids",
+			"\"use strict\";\n",
+			"exports.",
+			"exports",
+			"function ripSet",
+			"data.set",
+			"processFirstBatch",
+			"processVariations",
+			"this.data",
+			"C.",
+			"C.SETS.map",
+			"base",
+			"C.",
+			"setsToDo",
+			"C.",
+			"subcb",
+			"C.",
+			"C.SETS",
+			"FAKE_SET",
+			"C.",
+			"C.SETS",
+			"FAKE_SETS",
+			"C.",
+			"addPrintingsToCards",
+			"def",
+			"getURLAsDoc",
+			"addPrintingsToCards",
+			"processTextBlocks",
+			"\\w+ - ([\\w .\\-\\'\\\"&]+) - ([\\w ]+).svg",
+			"						<td rowspan=\"2\">([\\w\\d.'; \":&\\-]+)</td>\n						<td rowspan=\"2\">(\\w+)</td>\n						<td rowspan=\"2\">([\\w\\-]+)</td>\n",
+			"						<td rowspan=\"2\">([\\w\\d.'; \":&]+)</td>\n						<td rowspan=\"2\">(\\w+)</td>\n						<td rowspan=\"2\">([\\w\\-]+)</td>\n",
+			"						<td rowspan=\"2\">([\\w ]+)</td>\n						<td rowspan=\"2\">(\\w+)</td>\n						<td rowspan=\"2\">([\\w\\-]+)</td>\n",
+			"\n				\n",
+			"\n				\n\n",
+			"\\n",
+			"						<td rowspan=\"2\">([\\w ]+)</td>\n						<td rowspan=\"2\">(\\w+)</td>\n						<td rowspan=\"2\">([\\w\\-]+)</td>\n",
+			"						<td rowspan=\"2\">Promo set for Gatherer</td>\n						<td rowspan=\"2\">PPR</td>\n						<td rowspan=\"2\">1994-07-01</td>\n",
+			"						<td rowspan=\"2\">([\\w ]+)</td>\n						<td rowspan=\"2\">(\\w+)</td>\n						<td rowspan=\"2\">([\\w\\-]+)</td>\n",
+			"&amp;",
+			"&quot;",
+			"&#39",
+			"\\n",
+			"\n				\n",
+			"\\s+\\n	\n",
+			"\n				\n",
+			"						<td class=\"sizeColLeft\">\n							<a href=\"json/[\\w.]+\">[\\w.]+</a>\n						</td>\n						<td class=\"sizeColRight\">\n							<span class=\"size\">[\\w.&;]+</span>\n						</td>\n						<td class=\"sizeColLeft\">\n							<a href=\"json/[\\w.\\-]+\">[\\w.\\-]+</a>\n						</td>\n						<td class=\"sizeColRight\">\n							<span class=\"size\">[\\w.&;]+</span>\n						</td>\n					</tr>\n					<tr class=\"secondRow\">\n						<td class=\"sizeColLeft\">\n							<a href=\"[\\w./]+\">[\\w./]+</a>\n						</td>\n						<td class=\"sizeColRight\">\n							<span class=\"size\">[\\w.]+</span>\n						</td>\n						<td class=\"sizeColLeft\">\n							<a href=\"[\\w./\\-]+\">[\\w./\\-]+</a>\n						</td>\n						<td class=\"sizeColRight\">\n							<span class=\"size\">[\\w.]+</span>\n						</td>\n					</tr>",
+			"<td class=\"sizeColLeft\">",
+			"						<td class=\"sizeColLeft\">\\n\n							<a href=\"json/LEA.json\">LEA.json</a>\\n\n						</td>",
+			"						<td class=\"sizeColLeft\">\n							<a href=\"json/LEA.json\">LEA.json</a>\n						</td>",
+			"						<td rowspan=\"2\">1993-08-05</td>\n						<td class=\"sizeColLeft\">\n							<a href=\"json/LEA.json\">LEA.json</a>\n						</td>",
+			"						<td class=\"sizeColLeft\">\n							<a href=\"json/LEA.json\">LEA.json</a>\n						</td>",
+			"						<td class=\"sizeColLeft\">\n							<a href=\"json/[\\w.]+\">[\\w.]+</a>\n						</td>",
+			"						<td class=\"sizeColLeft\">\n							<a href=\"json/LEA.json\">LEA.json</a>\n						</td>",
+			"						<td class=\"sizeColLeft\">\n							<a href=\"json/LEA.json\">LEA.json</a>\n						</td>\n						<td class=\"sizeColRight\">\n							<span class=\"size\">&nbsp;115KB</span>\n						</td>\n						<td class=\"sizeColLeft\">\n							<a href=\"json/LEA-x.json\">LEA-x.json</a>\n						</td>\n						<td class=\"sizeColRight\">\n							<span class=\"size\">&nbsp;339KB</span>\n						</td>\n					</tr>\n					<tr class=\"secondRow\">\n						<td class=\"sizeColLeft\">\n							<a href=\"json/LEA.json.zip\">LEA.json.zip</a>\n						</td>\n						<td class=\"sizeColRight\">\n							<span class=\"size\">23.7KB</span>\n						</td>\n						<td class=\"sizeColLeft\">\n							<a href=\"json/LEA-x.json.zip\">LEA-x.json.zip</a>\n						</td>\n						<td class=\"sizeColRight\">\n							<span class=\"size\">72.2KB</span>\n						</td>\n					</tr>\n				",
+			"					<tr class=\"firstRow\">\\n",
+			"					<tr class=\"firstRow\">",
+			"Werewolf Ransacker",
+			"planechase",
+			"marketing",
+			"vanguard",
+			"\"Brimaz\"",
+			"elspeth",
+			"\"expansion\": \"Theros\"",
+			"\"Land\"",
+			"basic land",
+			"(form\\d+)",
+			"'",
+			"Avalanche Rider",
+			"myojin",
+			"292976",
+			"292753",
+			"220502",
+			"205409",
+			"205384",
+			"huntmaster",
+			"teferi",
+			"([\\w\\:\\- '.]+)",
+			"	<option value=\"[\\w \\:\\.\\-']+\">([\\w+\\:\\- .']+)</option>",
+			"	<option value=\"[\\w ]+",
+			"(\\w+)",
+			" ",
+			"	<option value=\"[\\w \\-]+\">([\\w\\- ]+)</option>",
+			"Arcane",
+			"abattoir",
+			"2B",
+			"xenagos",
+			"color",
+			"flavor"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"get_card_json_object",
+			"json_data",
+			"    '\\1': '\\2',\\n",
+			"    '\\1': '\\2',",
+			"",
+			"&",
+			"\"",
+			"'",
+			"",
+			"\"\\1\"",
+			"\"",
+			"\"\\1\",",
+			"\"\\1\"",
+			"\\1",
+			"String \\1",
+			"\\1Legality",
+			"",
+			"\\1",
+			"$\\1",
+			" \"\\1\"",
+			"\"\\1\" ",
+			" \"\\1\"",
+			"\"\\1\"",
+			"",
+			"\\1",
+			"cardname",
+			"cards_json",
+			"divContainer",
+			"maxZoomFactor",
+			"minZoomFactor",
+			"this.getPointForEvent",
+			"this.setTransformMatrix",
+			"this.panStartCoords",
+			"this.nowPanning",
+			"this.doZoom",
+			"this.zoomScale",
+			"this.targetGroup",
+			"this.targetSvgSel",
+			"this.targetSvg",
+			"this.targetSvg    ",
+			"    ",
+			"this.",
+			"eventClientCoords",
+			"targetSvg",
+			"targetSvgSel",
+			"setTargetGroup",
+			"filtered",
+			"isPalindrome",
+			"ok",
+			"memory"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 119.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"tutor.c",
+				"src/tutor.coffee"
+			],
+			[
+				"card.coffe",
+				"src/gatherer/card.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true
+}
